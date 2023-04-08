@@ -1,0 +1,77 @@
+
+.header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(53, 133, 196);
+    padding: 3rem;
+}
+
+.aboutMe{
+    background-color: rgb(51, 144, 117);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.workExp{
+    background-color: rgb(51, 144, 117);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.school{
+    background-color: rgb(51, 144, 117);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.gallery{
+    background-color: rgb(51, 144, 117);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+
+.contact{
+    background-color: rgb(51, 144, 117);
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.contact>h4{
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+
